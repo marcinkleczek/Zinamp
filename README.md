@@ -20,7 +20,7 @@ The top bar that says ^Zinamp is actually a search bar. Click it, and then start
 The majority of the window is occupied by the Library which is blank until you add tracks. The main scroll bar of your browser should run through all of the tracks in your library, where all of the ID3 info is available: genre, title, artist etc. As of the time of this writing, there is a popup dialogue that pretty much forces you to add tracks first, so by the time you see the rest of the application, you already have tracks in the library, and it should be pretty obvious.
 
 ######Playlist
-The right side of the window is the Playlist. You add tracks to the current playlist by clicking any track in the library. As of this time there is no way to remove individual tracks from the playlist. Also, the browse button breaks the CLEAR and SHUFFLE buttons when added into the save <div>.
+The right side of the window is the Playlist. You add tracks to the current playlist by clicking any track in the library. As of this time there is no way to remove individual tracks from the playlist. Also, the browse button breaks the CLEAR and SHUFFLE buttons when added into the same div.
 
 ######Clear and Shuffle
 This should be self explanatory.

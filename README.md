@@ -1,4 +1,4 @@
-#ZINAMP
+##ZINAMP
 a web-based local audio player made in HTML and JS.
 http://zinamp.com
 http://twitter.com/zinamp

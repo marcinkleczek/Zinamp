@@ -1,0 +1,138 @@
+body {
+        background: #fff;
+        font-family: 'Open Sans', sans-serif;
+        font-size: 16px;
+        margin: 0;
+        overflow-y: scroll;
+      }
+#startup #prompt {
+        width: 200px;
+        background: #fefefe;
+        height: 20%;
+        width: 30%;
+        min-height: 180px;
+        border-radius: 1px;
+        z-index: 100;
+        position: absolute;
+        top: 35%;
+        left: 35%;
+      }
+      
+#mask {
+        position: absolute;
+        opacity: 0.5;
+        width: 100%;
+        left: 0;
+        top: 0;
+        height: 100%;
+        z-index: 4;
+        background: #fff;
+      }
+      
+#prompt input {
+        margin-top: 15px;
+        margin-left: 15px;
+      }
+      
+      
+#search {
+        width: 80%;
+        position:fixed;
+        top: 0;
+        padding:0;
+        margin:0;
+      }
+        
+#search input {
+        width: 100%;
+        height: 36px;
+        font-size: 30px;
+        border: none;
+        padding-left: 5px;
+        border-bottom: 1px solid #ffffff;
+        outline: none;
+        background: #ffffff;
+        
+      }
+audio {
+        width: 100%;
+        
+      }
+      
+#footer {
+        position: fixed;
+        bottom: -3px;
+        width: 100%;
+        background: #ffffff;
+      }
+      
+#songs {
+        background: #fff;
+        width: 80%;
+        padding-left: 5px;
+      }
+      
+#songs table {
+        width: 100%;
+      }
+      
+#playlist {
+        width: 20%;
+        position: fixed;
+        right: 0;
+        color: #111;
+		background: #fff;
+        top: 0;
+      }
+      
+#playlist table {
+        width: 100%;
+        margin: 5px;
+        margin-left: 10px;
+      }
+      
+table tr:hover {
+        background: #fefefe;
+        border-radius: 5px;
+      }
+      
+table tr {
+        -webkit-user-select: none;
+        user-select: none;
+        cursor: default;
+        
+      }
+table td {
+        padding-top: 3px;
+        padding-bottom: 3px;
+        padding-right: 5px;
+      }
+      
+      
+#playlist table tr.playing {
+        background: #eee;
+        font-style: oblique;
+      }
+      
+
+#playlist table tr.playing td {
+        padding-left: 20px;
+      }
+      
+#listtools {
+        position: fixed;
+        bottom: 30px;
+        right: 5px;
+		background: #fff;
+        color: #222;
+		font-style: oblique;
+		font-size: 16px;
+      }
+#listtools a {
+		color: #222;
+		font-style: oblique;
+      }
+      
+tr.hidden {
+        display:none;
+      }

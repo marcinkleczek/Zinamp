@@ -7,7 +7,7 @@ http://twitter.com/zinamp
 On December 20th, 2013, Winamp will have shut down forever. Zinamp is by no means a web-based Winamp clone, just another project paying respect to one of the greats. 
 
 #####RESPECT
-Thanks to Antimatter15 for writing the original code from 2010 and posting it to github for us to use. To my knowledge, AM15 was the first person to demonstrate this type of functionality in a web-based medium, as noted in the original code.
+Thanks to Antimatter15 for writing the original code from 2010 and posting it to github for us to use. To my knowledge, AM15 was the first person to demonstrate this type of functionality in a web-based medium, as noted in the original code. I intend to update the code and spiff it up with some jQuery. I want to be clear that this is not my code.
 
 #####USABILITY
 ######Browse
